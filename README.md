@@ -39,6 +39,16 @@ A Python-based screen recording application that captures your screen and saves 
    - The video is saved as `output.mp4` in the project directory.
 
 ---
+## 📂 Project Structure
+```
+screen-recorder/
+├── index.html       # Main HTML file for the frontend
+├── styles.css       # CSS for styling the app
+├── script.js        # JavaScript for frontend functionality
+├── screen_recorder.py  # Python script for backend functionality
+├── server.py        # Additional backend script for server logic (if needed)
+└── README.md        # Documentation file
+```
 
 ## Customization ✏️
 
