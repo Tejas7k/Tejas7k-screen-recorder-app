@@ -16,7 +16,7 @@ A Python-based screen recording application that captures your screen and saves 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/screen-recorder.git
+   git clone https://github.com/Tejas7k/screen-recorder.git
    cd screen-recorder
    ```
 
